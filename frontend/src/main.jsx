@@ -1,4 +1,4 @@
-import { StrictMode } from 'react' //edit later
+import React from 'react' //edit later
 import { createRoot } from 'react-dom/client' //edit later 
 import './index.css'
 import {BrowserRouter} from 'react-router-dom'
